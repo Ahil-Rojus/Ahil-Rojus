@@ -26,24 +26,40 @@
 
 #### What I bring
 
-- <em>1. Problem Solving: Breaking down real-world problems and exploring practical technical solutions.
+1. Problem Solving: Breaking down real-world problems and exploring practical technical solutions.
 2. Hardware + Software: Connecting sensors, microcontrollers, communication modules, and web applications.
-
-🌐 Application Development: Building web interfaces, backend services, and data-driven applications.
-
-🤖 AI & Automation: Exploring AI-powered applications, resume parsing, and intelligent workflows.
-
-🤝 Team Collaboration: Coordinating projects, supporting technical teams, and contributing to research and development initiatives.
-
-📊 Research & Innovation: Exploring emerging technologies and translating ideas into working prototypes.</em>
-- <em>✏️ Say this in your own words.</em>
-- <em>✏️ Say this in your own words.</em>
+3. Application Development: Building web interfaces, backend services, and data-driven applications.
+4. AI & Automation: Exploring AI-powered applications, resume parsing, and intelligent workflows.
+5. Team Collaboration: Coordinating projects, supporting technical teams, and contributing to research and development initiatives.
+6. Research & Innovation: Exploring emerging technologies and translating ideas into working prototypes.</em>
 
 </td></tr></table>
 
 #### Stack
 
-<em>✏️ The tools you reach for, in a sentence.</em>
+<em>Languages
+
+Python, C, JavaScript, HTML, CSS
+
+Web Development
+
+Node.js, Express.js, FastAPI
+
+Databases & Cloud
+
+MySQL, AWS
+
+IoT & Embedded Systems
+
+Arduino, ESP8266, LoRa, sensors, microcontrollers
+
+Visualization & Tools
+
+Chart.js, Three.js, Power BI, Git, GitHub
+
+Currently Exploring
+
+AI-powered applications, LLM integration, automated resume screening, and full-stack application development.</em>
 
 <details>
 <summary><b>Activity this year</b></summary>
