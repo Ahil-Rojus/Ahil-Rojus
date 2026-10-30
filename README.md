@@ -37,29 +37,29 @@
 
 #### Stack
 
-<em>Languages
+####Languages
 
-Python, C, JavaScript, HTML, CSS
+<em>Python, C, JavaScript, HTML, CSS</em>
 
-Web Development
+####Web Development
 
-Node.js, Express.js, FastAPI
+<em>Node.js, Express.js, FastAPI</em>
 
-Databases & Cloud
+####Databases & Cloud
 
-MySQL, AWS
+<em>MySQL, AWS</em>
 
-IoT & Embedded Systems
+####IoT & Embedded Systems
 
-Arduino, ESP8266, LoRa, sensors, microcontrollers
+<em>Arduino, ESP8266, LoRa, sensors, microcontrollers</em>
 
-Visualization & Tools
+####Visualization & Tools
 
-Chart.js, Three.js, Power BI, Git, GitHub
+<em>Chart.js, Three.js, Power BI, Git, GitHub</em>
 
-Currently Exploring
+####Currently Exploring
 
-AI-powered applications, LLM integration, automated resume screening, and full-stack application development.</em>
+<em>AI-powered applications, LLM integration, automated resume screening, and full-stack application development.</em>
 
 <details>
 <summary><b>Activity this year</b></summary>
