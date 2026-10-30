@@ -2,11 +2,13 @@
 
 ### Hi, I'm Ahil Rojus.
 
-<em>✏️ A sentence about you and what you do.</em>
+<em>Computer Science Engineering student, passionate about building technology that solves real-world problems.</em>
 
-<em>✏️ A sentence about you and what you do.</em>
+<em>I work on projects spanning AI/ML, IoT, embedded systems, and full-stack web development, turning ideas into practical applications.</em>
 
-[Website](https://github.com/ahil-rojus) · [GitHub](https://github.com/ahil-rojus) · [X](https://x.com/your-handle)
+<em> Currently exploring intelligent automation, AI-powered applications, and connected systems while growing as a software developer.</em>
+
+[Website](https://github.com/ahil-rojus) · [GitHub](https://github.com/ahil-rojus)
 
 <img src="https://img.shields.io/github/followers/ahil-rojus?style=flat&label=followers&labelColor=545454&color=313131" alt="followers" /> <img src="https://img.shields.io/github/stars/ahil-rojus?style=flat&label=stars&labelColor=545454&color=313131" alt="stars" /> <img src="https://img.shields.io/badge/status-open_to_work-313131?style=flat&labelColor=545454" alt="open to work" />
 
@@ -24,7 +26,16 @@
 
 #### What I bring
 
-- <em>✏️ Say this in your own words.</em>
+- <em>1. Problem Solving: Breaking down real-world problems and exploring practical technical solutions.
+2. Hardware + Software: Connecting sensors, microcontrollers, communication modules, and web applications.
+
+🌐 Application Development: Building web interfaces, backend services, and data-driven applications.
+
+🤖 AI & Automation: Exploring AI-powered applications, resume parsing, and intelligent workflows.
+
+🤝 Team Collaboration: Coordinating projects, supporting technical teams, and contributing to research and development initiatives.
+
+📊 Research & Innovation: Exploring emerging technologies and translating ideas into working prototypes.</em>
 - <em>✏️ Say this in your own words.</em>
 - <em>✏️ Say this in your own words.</em>
 
