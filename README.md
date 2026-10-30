@@ -33,31 +33,32 @@
 5. Team Collaboration: Coordinating projects, supporting technical teams, and contributing to research and development initiatives.
 6. Research & Innovation: Exploring emerging technologies and translating ideas into working prototypes.</em>
 
+
 </td></tr></table>
 
 #### Stack
 
-####Languages
+#### Languages
 
 <em>Python, C, JavaScript, HTML, CSS</em>
 
-####Web Development
+#### Web Development
 
 <em>Node.js, Express.js, FastAPI</em>
 
-####Databases & Cloud
+#### Databases & Cloud
 
 <em>MySQL, AWS</em>
 
-####IoT & Embedded Systems
+#### IoT & Embedded Systems
 
 <em>Arduino, ESP8266, LoRa, sensors, microcontrollers</em>
 
-####Visualization & Tools
+#### Visualization & Tools
 
 <em>Chart.js, Three.js, Power BI, Git, GitHub</em>
 
-####Currently Exploring
+#### Currently Exploring
 
 <em>AI-powered applications, LLM integration, automated resume screening, and full-stack application development.</em>
 
